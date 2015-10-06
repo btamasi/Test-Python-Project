@@ -11,5 +11,7 @@
 - Add code to the in the *module directory*
 - Add scripts to `bin/`
 - Add script names to `setup.py`
-
+- Check for errors with `nosetests`
+- Use `python setup.py sdist` to create a source distribution for the *module*
+- (Add `dist/`, `*.egg-info`, and `*.pyc` to `.gitignore`)
 
